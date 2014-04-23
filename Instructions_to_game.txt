@@ -1,0 +1,1 @@
+This program makes you guess what side a coin flips and then saves your high score
